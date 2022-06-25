@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="enter_your_note_title_here">Enter your note title here</string>
+    <string name="enter_your_note_here">Enter your Note here</string>
+    <string name="enter_your_registered_email">Enter Your Registered Email</string>
+    <string name="click_here_to_recover">Click here to recover</string>
+    <string name="go_back_to_login_screen">Go Back To Login Screen</string>
+    <string name="don_t_worry_we_are_here">Don\'t worry we are here</string>
+    <string name="welcome">Welcome</string>
+</resources>
